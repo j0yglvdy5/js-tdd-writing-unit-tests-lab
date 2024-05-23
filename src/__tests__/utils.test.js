@@ -1,4 +1,3 @@
-// src/__tests__/isPalindrome.test.js
 import { isPalindrome } from "../utils";
 
 describe("isPalindrome", () => {
